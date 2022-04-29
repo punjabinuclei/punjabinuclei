@@ -9,10 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Reactjs
 - 🤔 I’m looking for help with Reactjs
 - 💬 Ask me about DSA
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me: linkedin:https://www.linkedin.com/in/gurpreet-singh-a5701a193/   ig:@punjabinuclei
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=punjabinuclei&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
