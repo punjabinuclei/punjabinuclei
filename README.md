@@ -5,9 +5,9 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/punjabinuclei?label=Follow)](https://twitter.com/intent/follow?screen_name=punjabinuclei)
-[![Linkedin: Gurpreet](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punjabinuclei/)](https://www.linkedin.com/in/punjabinuclei/)
+[![Linkedin: Gurpreet](https://img.shields.io/badge/-gurpreet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punjabinuclei/)](https://www.linkedin.com/in/punjabinuclei/)
 ![GitHub followers](https://img.shields.io/github/followers/punjabinuclei?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://punjabinuclei.netlify.app/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://punjabinuclei.netlify.app)
 ![](https://visitor-badge.glitch.me/badge?page_id=punjabinuclei.punjabinuclei)
 
 
@@ -51,13 +51,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punjabinuclei&show_icons=true&locale=en" alt="punjabinuclei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punjabinuclei&" alt="punjabinuclei" /></p>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
-
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
