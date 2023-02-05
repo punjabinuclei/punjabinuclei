@@ -28,7 +28,6 @@
 
 - 📫 How to reach me **gurpreet.singh.735701@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/149p726r7f6YCMyr5w72_qNDF_r2mhbkb/view?usp=share_link](https://drive.google.com/file/d/149p726r7f6YCMyr5w72_qNDF_r2mhbkb/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
