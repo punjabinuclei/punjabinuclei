@@ -3,20 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punjabinuclei&label=Profile%20views&color=0e75b6&style=flat" alt="punjabinuclei" /> </p>
 
-- 🔭 I’m currently working on [an Android App for CP Lovers](https://github.com/punjabinuclei/cp-Calendar-Backend)
-
-- 🌱 I’m currently learning **JAVA, UNIX, APP Development**
-
-- 👯 I’m looking to collaborate on [Real-time prediction of Battery SoC in UAVs: A Machine Learning Perspective](https://github.com/punjabinuclei/RealTimeBatteryMonitoringSystem)
-
-- 👨‍💻 All of my projects are available at [https://punjabinuclei.netlify.app/](https://punjabinuclei.netlify.app/)
-
-- 💬 Ask me about **AI-ML|WEB DEV|DSA|IOT|APP DEV**
-
-- 📫 How to reach me **gurpreet.singh.735701@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w71_KDOsqSjD-BDI46KRLPrS8tpWq85P/view](https://drive.google.com/file/d/1w71_KDOsqSjD-BDI46KRLPrS8tpWq85P/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/punjabinuclei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punjabinuclei" height="30" width="40" /></a>
